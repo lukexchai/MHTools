@@ -31,7 +31,7 @@ MHTools/
 ## 安装
 
 ```sh
-wget https://github.com/lukeopen/MHTools/releases/latest/download/mhtools-v2.1.0.tar.gz
+wget https://github.com/lukexchai/MHTools/releases/latest/download/mhtools-v2.1.0.tar.gz
 tar xzf mhtools-v2.1.0.tar.gz
 cd MHTools
 sh install.sh
